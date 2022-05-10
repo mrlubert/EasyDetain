@@ -1,0 +1,6 @@
+name: EasyDetain
+version: '${project.version}'
+main: plugin.vertex101.easydetain.EasyDetain
+api-version: 1.18
+authors: [ Vertex101 ]
+description: A plugin for moving entities
